@@ -1,0 +1,14 @@
+title: Wirewalk Research
+url: https://research.wirewalk.com
+baseurl: ""
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+exclude:
+  - README.md
+  - tools
+  - Gemfile
+  - Gemfile.lock
+  - AGENTS.md
+  - vendor
+  - .gitignore

@@ -1,0 +1,65 @@
+[
+  {
+    "sku": "research-consult",
+    "name": "Research computing consultation",
+    "blurb": "One 90-minute remote session, review of a short brief, and a written action plan. For a research AI idea, model choice, or HPC architecture question.",
+    "amount": 45000,
+    "price": "$450",
+    "priceOnApplication": false,
+    "group": "research-start"
+  },
+  {
+    "sku": "research-triage",
+    "name": "HPC / AI troubleshooting",
+    "blurb": "Up to four engineering hours on one reproducible issue in one agreed environment. Evidence review, diagnosis, and a written repair plan; approved low-risk fixes within the time cap.",
+    "amount": 180000,
+    "price": "$1,800",
+    "priceOnApplication": false,
+    "group": "research-start"
+  },
+  {
+    "sku": "research-hpc-assessment",
+    "name": "HPC performance assessment",
+    "blurb": "Up to 12 engineering hours on one workload and one cluster. Scheduler, GPU/CPU, storage and fabric profiling, a baseline, and prioritized findings. Implementation quoted separately.",
+    "amount": 450000,
+    "price": "$4,500",
+    "priceOnApplication": false,
+    "group": "research-start"
+  },
+  {
+    "sku": "research-model-evaluation",
+    "name": "Research AI model evaluation",
+    "blurb": "Up to eight engineering hours comparing up to three candidate models on one agreed task and a client-supplied evaluation set. Quality, latency and cost comparison with a recommendation.",
+    "amount": 350000,
+    "price": "$3,500",
+    "priceOnApplication": false,
+    "group": "research-start"
+  },
+  {
+    "sku": "research-optimization",
+    "name": "GPU / workflow optimization sprint",
+    "blurb": "Projects from $6,000. One agreed performance bottleneck or workflow, implementation, before-and-after measurements, and handover. Final scope, effort and fee are quoted.",
+    "amount": 600000,
+    "price": "$6,000",
+    "priceOnApplication": true,
+    "group": "research-build"
+  },
+  {
+    "sku": "research-ai-build",
+    "name": "Research AI application or pipeline",
+    "blurb": "Projects from $9,500. A scoped application, RAG assistant, scientific data pipeline or model integration with evaluation and handover. Data readiness and integrations determine the final quote.",
+    "amount": 950000,
+    "price": "$9,500",
+    "priceOnApplication": true,
+    "group": "research-build"
+  },
+  {
+    "sku": "research-support",
+    "name": "Research engineering support",
+    "blurb": "$300 per hour, four-hour minimum ($1,200), with an agreed spending cap. Scheduled support, workflow maintenance, or team enablement. No automatic renewal or round-the-clock response promise.",
+    "amount": 120000,
+    "price": "$1,200",
+    "priceOnApplication": true,
+    "group": "research-build"
+  }
+]
